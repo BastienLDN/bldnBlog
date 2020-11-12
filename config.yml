@@ -1,0 +1,35 @@
+baseURL : "http://bldn.netlify.app/"
+languageCode : "en-us"
+title : "bldn."
+theme : "hugo-PaperMod-master"
+buildDrafts : true
+
+taxonomies :
+  tag : "tags"
+  category : "categories"
+  difficulty : "difficulties"
+
+params :
+  profileMode :
+    enabled : true
+    title : "bldn."
+    imageUrl : "avatar.jpg"
+    imageWidth : 150  
+    imageHeight : 150
+    buttons: 
+    - name: Category
+      url : "/tags"
+    - name: Posts
+      url : "/archive"
+  
+  socialIcons:
+    - name: "dev"
+      url : "http://bastienlandrin.com/"
+    - name: "github"
+      url : "https://github.com/BastienLDN"
+    - name: "twitter"
+      url : "https://twitter.com/bastienldn"
+    - name: "linkedin"
+      url : "https://www.linkedin.com/in/bastien-landrin-a2347a183/"
+    - name: "steam"
+      url : "https://steamcommunity.com/id/twistUE4"
