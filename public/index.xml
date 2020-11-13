@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bldn.</title>
+    <link>http://bldn.netlify.app/</link>
+    <description>Recent content on bldn.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 21:55:48 +0100</lastBuildDate><atom:link href="http://bldn.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>http://bldn.netlify.app/archive/</link>
+      <pubDate>Fri, 13 Nov 2020 11:21:57 +0100</pubDate>
+      
+      <guid>http://bldn.netlify.app/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://bldn.netlify.app/webgl/introduction/</link>
+      <pubDate>Thu, 12 Nov 2020 21:55:48 +0100</pubDate>
+      
+      <guid>http://bldn.netlify.app/webgl/introduction/</guid>
+      <description>var test = () =&amp;gt; { return 2 + 2; } Code en CS =
+// TEST private int test = 2; private uint Test() { return 2 + 2; } </description>
+    </item>
+    
+  </channel>
+</rss>
